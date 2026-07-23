@@ -24,22 +24,22 @@
 
 ## O que o Código Faz
 
-* **1. Abertura do Navegador**
+* **1. Abertura do Navegador:**
 * O Python abre o Chrome e entra no site do WhatsApp Web.
 * O código espera a tela carregar para dar tempo de conectar via QR Code.
 
 
-* **2. Leitura dos Dados**
+* **2. Leitura dos Dados:**
 * O Pandas lê a planilha `Envios.xlsx` com os números e mensagens que foram cadastrados.
 
 
-* **3. Envio da Mensagem em Loop**
+* **3. Envio da Mensagem em Loop:**
 * Para cada linha da tabela, o script troca o texto `"fulano"` pelo nome real da pessoa.
 * O código abre a conversa do número diretamente pelo link do WhatsApp Web.
 * O sistema verifica se o número existe e clica no botão de enviar a mensagem de texto.
 
 
-* **4. Envio de Anexos (Arquivos)**
+* **4. Envio de Anexos (Arquivos):**
 * Se houver algum arquivo indicado na planilha (diferente de "N"), o script busca esse arquivo dentro da pasta /arquivos.
 * Ele clica no clipe de anexo do WhatsApp, insere o arquivo e faz o envio.
 
