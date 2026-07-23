@@ -4,9 +4,9 @@ Este é um mini projeto simples onde criei um script em Python para enviar mensa
 
 Arquivos do Projeto:
 
-automacao_whatsapp.ipynb
-Envios.xlsx
-arquivos/
+automacao_whatsapp.ipynb 
+Envios.xlsx 
+arquivos
 
 Ferramentas Utilizadas:
 
