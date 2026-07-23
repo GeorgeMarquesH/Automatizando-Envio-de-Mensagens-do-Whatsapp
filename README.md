@@ -38,10 +38,13 @@
 * O código abre a conversa do número diretamente pelo link do WhatsApp Web.
 * O sistema verifica se o número existe e clica no botão de enviar a mensagem de texto.
 
-
 * **4. Envio de Anexos (Arquivos):**
 * Se houver algum arquivo indicado na planilha (diferente de "N"), o script busca esse arquivo dentro da pasta /arquivos.
 * Ele clica no clipe de anexo do WhatsApp, insere o arquivo e faz o envio.
 
-Ele clica no clipe de anexo do WhatsApp, insere o arquivo e faz o envio.
-Ele clica no clipe de anexo do WhatsApp, insere o arquivo e faz o envio.
+
+
+
+
+
+
